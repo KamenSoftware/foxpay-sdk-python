@@ -25,7 +25,7 @@ DESCRIPTION = 'foxpay sdk for python version'
 LONG_DESCRIPTION = 'foxpay sdk for python version'
 
 setup(
-    name="foxpay-sdk-python",
+    name="FoxPay",
     version=VERSION,
     author="Lin",
     author_email='404885236@qq.com',
